@@ -1,1 +1,3 @@
-from E2E_Wine_Quality_Prediction import logger
+from wineQuality import logger
+
+logger.info("welcome to india ")
