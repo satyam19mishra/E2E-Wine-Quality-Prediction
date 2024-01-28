@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/my_folder/SAM/AIML/03_MLOPS/E2E_Projects/E2E-Wine-Quality-Prediction/mlruns/0/df2908b3a2d74a218d20611a68bb4347/artifacts
+end_time: 1706451194059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df2908b3a2d74a218d20611a68bb4347
+run_name: worried-goat-905
+run_uuid: df2908b3a2d74a218d20611a68bb4347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706451188998
+status: 3
+tags: []
+user_id: saura
