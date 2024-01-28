@@ -1,0 +1,1 @@
+from E2E_Wine_Quality_Prediction import logger

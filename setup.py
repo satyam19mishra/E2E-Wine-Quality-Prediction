@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "E2E-Wine-Quality-Prediction"
 AUTHOR_USER_NAME = "satyam19mishra"
-SRC_REPO = "E2E-Wine-Quality-Prediction"
+SRC_REPO = "wineQuality"
 AUTHOR_EMAIL = "samrewa19@gmail.com"
 
 
